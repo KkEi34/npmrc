@@ -16,7 +16,11 @@ you from your own stupid self by making sure you don't accidentally overwrite an
 
 Installation
 ------------
-
+This version:
+```sh
+npm install -g https://github.com/KkEi34/npmrc
+```
+Original version at https://github.com/deoxxa/npmrc:
 ``` sh
 npm install -g npmrc
 ```
